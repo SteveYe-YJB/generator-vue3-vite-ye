@@ -32,7 +32,7 @@ module.exports = class extends Generator {
       'package-lock.json',
       'package.json',
       'README.md',
-      'tsconfig.ts',
+      'tsconfig.json',
       'vite.config.ts',
       'src/api',
       'src/assets',
