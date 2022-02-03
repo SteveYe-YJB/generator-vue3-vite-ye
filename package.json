@@ -1,7 +1,6 @@
 {
   "name": "generator-vue3-vite-ye",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +10,12 @@
     "url": "git+https://github.com/SteveYe-YJB/generator-vue3-vite-ye.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/SteveYe-YJB/generator-vue3-vite-ye/issues"
   },
-  "homepage": "https://github.com/SteveYe-YJB/generator-vue3-vite-ye#readme"
+  "homepage": "https://github.com/SteveYe-YJB/generator-vue3-vite-ye#readme",
+  "description": "<%=description%>",
+  "author": "<%=author%>",
+  "license": "<%=license%>",
+  "private": "<%=private%>"
 }
